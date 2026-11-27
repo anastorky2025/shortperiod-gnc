@@ -48,7 +48,7 @@ closed-loop stability and tracking for LQR and PID, and the step metrics (checke
 
 ## Disclosure
 
-This code was written by an AI assistant working on the repo owner's behalf, not hand-written by the owner, and then tested with the unit tests above. The repo was created in November 2026 and has a single initial upload.
+This code was written by an AI assistant working on the repo owner's behalf, not hand-written by the owner, and then tested with the unit tests above. The repo was created in November 2026. Its history is one initial upload followed by file-rename commits, with no earlier history.
 
 ## License
 
